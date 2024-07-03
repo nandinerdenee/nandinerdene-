@@ -1,0 +1,13 @@
+.container{
+
+    background-color: black;
+    display: flex;
+    color: white;
+    justify-content: space-around;
+}
+
+.container a{
+    color: white;
+    text-decoration: none;
+
+}
